@@ -908,3 +908,1263 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.04-15.14.05:147][ 62]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.04-15.14.05:147][ 62]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/VN_Framework/Maps/Main_Persistent_BuiltData.Main_Persistent_BuiltData
 [2022.05.04-15.14.05:147][ 62]LogContentValidation: Display: Validating World /Game/VN_Framework/Maps/Main_Persistent.Main_Persistent
+[2022.05.04-15.17.33:906][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.05.04-15.17.33:936][ 24]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map.Map
+[2022.05.04-15.17.33:936][ 24]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.17.33:936][ 24]LightingResults: New page: Lighting Build
+[2022.05.04-15.17.33:936][ 24]LoadErrors: New page: Loading map: Map.umap
+[2022.05.04-15.17.33:940][ 24]LogWorld: UWorld::CleanupWorld for Main_Persistent, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.17.33:940][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.17.33:940][ 24]LogWorld: UWorld::CleanupWorld for 2D_Background, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.17.33:940][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.17.33:940][ 24]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.17.33:940][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.17.33:940][ 24]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.17.33:940][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.17.33:940][ 24]MapCheck: New page: Map Check
+[2022.05.04-15.17.33:940][ 24]LightingResults: New page: Lighting Build
+[2022.05.04-15.17.33:960][ 24]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.17.33:967][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.04-15.17.33:968][ 24]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2022.05.04-15.17.33:969][ 24]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.17.33:969][ 24]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.17.33:992][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.04-15.17.33:994][ 24]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.17.33:994][ 24]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.095ms to complete.
+[2022.05.04-15.17.33:994][ 24]LogFileHelpers: Loading map 'Map' took 0.059
+[2022.05.04-15.17.34:022][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.04-15.17.43:330][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.04-15.17.50:444][124]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonTown/Maps/Demonstration.Demonstration
+[2022.05.04-15.17.50:445][124]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/PolygonTown/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.17.50:445][124]LightingResults: New page: Lighting Build
+[2022.05.04-15.17.50:445][124]LoadErrors: New page: Loading map: Demonstration.umap
+[2022.05.04-15.17.50:445][124]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.17.50:445][124]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.17.50:445][124]MapCheck: New page: Map Check
+[2022.05.04-15.17.50:445][124]LightingResults: New page: Lighting Build
+[2022.05.04-15.17.50:488][124]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.17.50:492][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.05.04-15.17.50:493][124]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2022.05.04-15.17.50:621][124]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.17.50:621][124]LogAIModule: Creating AISystem for world Demonstration
+[2022.05.04-15.17.50:667][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.05.04-15.17.50:670][124]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.17.50:670][124]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.565ms to complete.
+[2022.05.04-15.17.50:670][124]LogFileHelpers: Loading map 'Demonstration' took 0.226
+[2022.05.04-15.17.58:158][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Mountains_Grass_13)
+[2022.05.04-15.18.02:366][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Mountains_Grass_2)
+[2022.05.04-15.18.03:161][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Mountains_Grass_13)
+[2022.05.04-15.18.04:652][447]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Grass_02)
+[2022.05.04-15.18.05:277][504]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Snow_2)
+[2022.05.04-15.18.25:522][629]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Grass_3)
+[2022.05.04-15.18.26:533][726]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Snow_3)
+[2022.05.04-15.18.28:234][898]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Grass_9)
+[2022.05.04-15.18.30:782][166]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Grass_01)
+[2022.05.04-15.18.33:436][443]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Grass_2)
+[2022.05.04-15.18.36:142][726]Cmd: EDIT COPY
+[2022.05.04-15.18.41:290][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.04-15.18.42:839][241]LogSlate: Window 'Save Content' being destroyed
+[2022.05.04-15.18.42:857][241]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map.Map
+[2022.05.04-15.18.42:857][241]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.18.42:857][241]LightingResults: New page: Lighting Build
+[2022.05.04-15.18.42:857][241]LoadErrors: New page: Loading map: Map.umap
+[2022.05.04-15.18.42:910][241]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.18.42:912][241]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.18.42:912][241]MapCheck: New page: Map Check
+[2022.05.04-15.18.42:912][241]LightingResults: New page: Lighting Build
+[2022.05.04-15.18.42:934][241]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.18.42:957][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.04-15.18.42:958][241]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2022.05.04-15.18.42:959][241]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.18.42:959][241]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.18.42:985][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.05.04-15.18.42:987][241]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.18.42:988][241]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2022.05.04-15.18.42:988][241]LogFileHelpers: Loading map 'Map' took 0.130
+[2022.05.04-15.18.45:937][590]Cmd: EDIT PASTE
+[2022.05.04-15.19.12:195][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Mountains_Snow_3)
+[2022.05.04-15.19.13:136][766]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Mountains_Grass_9)
+[2022.05.04-15.19.26:387][320]LogEditorViewport: Clicking Background
+[2022.05.04-15.19.42:102][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.04-15.19.42:125][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.05.04-15.19.42:137][184]LogSavePackage: Moving '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Saved/Map6C6F970B4C7FDFE96A876DBC147FEE71.tmp' to '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap'
+[2022.05.04-15.19.42:149][184]AssetCheck: New page: Asset Save: Map
+[2022.05.04-15.19.42:149][184]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.05.04-15.20.06:275][807]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-15.20.36:469][331]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-15.20.38:718][596]LogEditorViewport: Clicking Background
+[2022.05.04-15.20.53:405][280]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-15.21.09:715][180]LogSlate: Window 'Color Picker' being destroyed
+[2022.05.04-15.21.10:829][310]LogEditorViewport: Clicking Background
+[2022.05.04-15.21.19:985][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.04-15.21.20:007][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.05.04-15.21.20:019][381]LogSavePackage: Moving '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Saved/Map221A484E4BCA1BF45A6229ACB0FF0CDD.tmp' to '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap'
+[2022.05.04-15.21.20:032][381]AssetCheck: New page: Asset Save: Map
+[2022.05.04-15.21.20:032][381]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.05.04-15.23.01:470][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.04-15.23.01:745][754]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonTown/Maps/Demonstration.Demonstration
+[2022.05.04-15.23.01:746][754]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/PolygonTown/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.23.01:746][754]LightingResults: New page: Lighting Build
+[2022.05.04-15.23.01:746][754]LoadErrors: New page: Loading map: Demonstration.umap
+[2022.05.04-15.23.01:790][754]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.23.01:791][754]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.23.01:791][754]MapCheck: New page: Map Check
+[2022.05.04-15.23.01:791][754]LightingResults: New page: Lighting Build
+[2022.05.04-15.23.01:831][754]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.23.01:835][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.04-15.23.01:835][754]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2022.05.04-15.23.01:955][754]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.23.01:955][754]LogAIModule: Creating AISystem for world Demonstration
+[2022.05.04-15.23.02:002][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.04-15.23.02:005][754]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.23.02:005][754]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.461ms to complete.
+[2022.05.04-15.23.02:005][754]LogFileHelpers: Loading map 'Demonstration' took 0.260
+[2022.05.04-15.23.07:603][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_03)
+[2022.05.04-15.23.08:757][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_4)
+[2022.05.04-15.23.10:466][641]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Env_Grass_558)
+[2022.05.04-15.23.12:697][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_4)
+[2022.05.04-15.23.13:263][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Grass_558)
+[2022.05.04-15.23.14:061][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Grass_559)
+[2022.05.04-15.23.18:647][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Grass_560)
+[2022.05.04-15.23.19:291][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Tree_Patch_02)
+[2022.05.04-15.23.19:777][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_8)
+[2022.05.04-15.23.22:362][942]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Ground_4)
+[2022.05.04-15.23.23:998][128]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Ground_03)
+[2022.05.04-15.23.25:450][287]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Generic_Ground_7)
+[2022.05.04-15.23.28:518][644]Cmd: EDIT COPY
+[2022.05.04-15.23.31:102][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.04-15.23.31:130][935]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map.Map
+[2022.05.04-15.23.31:130][935]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.23.31:130][935]LightingResults: New page: Lighting Build
+[2022.05.04-15.23.31:130][935]LoadErrors: New page: Loading map: Map.umap
+[2022.05.04-15.23.31:180][935]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.23.31:181][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.23.31:182][935]MapCheck: New page: Map Check
+[2022.05.04-15.23.31:182][935]LightingResults: New page: Lighting Build
+[2022.05.04-15.23.31:213][935]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.23.31:227][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.05.04-15.23.31:228][935]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2022.05.04-15.23.31:229][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.23.31:229][935]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.23.31:253][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.05.04-15.23.31:256][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.23.31:257][935]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2022.05.04-15.23.31:257][935]LogFileHelpers: Loading map 'Map' took 0.126
+[2022.05.04-15.23.32:283][ 55]Cmd: EDIT PASTE
+[2022.05.04-15.23.52:071][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_4)
+[2022.05.04-15.24.01:315][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_7)
+[2022.05.04-15.24.03:739][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_8)
+[2022.05.04-15.24.40:629][ 74]LogEditorViewport: Clicking on Actor (LMB): AtmosphericFog (Atmospheric Fog)
+[2022.05.04-15.24.42:736][318]LogEditorViewport: Clicking Background
+[2022.05.04-15.24.54:418][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_8)
+[2022.05.04-15.25.03:059][745]LogEditorViewport: Clicking Background
+[2022.05.04-15.26.15:807][921]LogActorFactory: Actor Factory created SM_Generic_Ground_03
+[2022.05.04-15.26.17:099][ 74]LogActorFactory: Actor Factory created SM_Generic_Ground_03
+[2022.05.04-15.26.17:620][136]LogActorFactory: Actor Factory created SM_Generic_Ground_03
+[2022.05.04-15.26.41:934][953]LogEditorViewport: Clicking Background
+[2022.05.04-15.26.55:110][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.04-15.26.55:134][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.05.04-15.26.55:150][443]LogSavePackage: Moving '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Saved/Map262A786D40A504B70884918C9024A5FD.tmp' to '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap'
+[2022.05.04-15.26.55:163][443]AssetCheck: New page: Asset Save: Map
+[2022.05.04-15.26.55:163][443]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.05.04-15.27.03:402][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.04-15.27.03:420][320]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map.Map
+[2022.05.04-15.27.03:420][320]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.27.03:420][320]LightingResults: New page: Lighting Build
+[2022.05.04-15.27.03:420][320]LoadErrors: New page: Loading map: Map.umap
+[2022.05.04-15.27.03:420][320]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.27.03:420][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.27.03:420][320]MapCheck: New page: Map Check
+[2022.05.04-15.27.03:420][320]LightingResults: New page: Lighting Build
+[2022.05.04-15.27.03:440][320]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.27.03:442][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.05.04-15.27.03:445][320]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2022.05.04-15.27.03:446][320]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.27.03:447][320]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.27.03:469][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.04-15.27.03:471][320]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.27.03:471][320]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2022.05.04-15.27.03:471][320]LogFileHelpers: Loading map 'Map' took 0.051
+[2022.05.04-15.27.10:010][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.04-15.27.10:287][ 81]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PolygonTown/Maps/Demonstration.Demonstration
+[2022.05.04-15.27.10:287][ 81]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/PolygonTown/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.27.10:287][ 81]LightingResults: New page: Lighting Build
+[2022.05.04-15.27.10:287][ 81]LoadErrors: New page: Loading map: Demonstration.umap
+[2022.05.04-15.27.10:288][ 81]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.27.10:288][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.27.10:288][ 81]MapCheck: New page: Map Check
+[2022.05.04-15.27.10:288][ 81]LightingResults: New page: Lighting Build
+[2022.05.04-15.27.10:329][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.27.10:333][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.04-15.27.10:333][ 81]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2022.05.04-15.27.10:455][ 81]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.27.10:455][ 81]LogAIModule: Creating AISystem for world Demonstration
+[2022.05.04-15.27.10:502][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.05.04-15.27.10:504][ 81]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.27.10:505][ 81]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.491ms to complete.
+[2022.05.04-15.27.10:505][ 81]LogFileHelpers: Loading map 'Demonstration' took 0.218
+[2022.05.04-15.27.45:781][944]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.27.45:785][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.27.45:785][944]PIE: New page: PIE session: Demonstration (May 4, 2022, 7:27:45 PM)
+[2022.05.04-15.27.45:786][944]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.05.04-15.27.45:787][944]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.05.04-15.27.45:787][944]LogPlayLevel: Creating play world package: /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.05.04-15.27.45:960][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172778s)
+[2022.05.04-15.27.45:961][944]LogAIModule: Creating AISystem for world Demonstration
+[2022.05.04-15.27.45:962][944]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2022.05.04-15.27.45:962][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PolygonTown/Maps/Demonstration.Demonstration to /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration (0.175267s)
+[2022.05.04-15.27.45:987][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.05.04-15.27.45:994][944]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.27.45:994][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.27.45:994][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.27.45:994][944]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.27.45:995][944]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.27.45:998][944]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.27.45:998][944]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.27.46:075][944]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.27.46:075][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.27.46:075][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.27.46:075][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.27.46:075][944]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.27.46:075][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.27.46:075][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.27.46:088][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.27.46:088][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.27.46:088][944]LogInit: FAudioDevice initialized.
+[2022.05.04-15.27.46:088][944]LogAudio: Display: Audio Device (ID: 2) registered with world 'Demonstration'.
+[2022.05.04-15.27.46:102][944]LogLoad: Game class is 'VN_GameMode_C'
+[2022.05.04-15.27.46:197][944]LogWorld: Bringing World /Game/PolygonTown/Maps/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2022.05.04-17.27.46
+[2022.05.04-15.27.46:200][944]LogWorld: Bringing up level for play took: 0.097071
+[2022.05.04-15.27.46:200][944]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.05.04-15.27.46:202][944]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.04-15.27.46:208][944]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.05.04-15.27.46:216][944]PIE: Server logged in
+[2022.05.04-15.27.46:218][944]PIE: Play in editor total start time 0.434 seconds.
+[2022.05.04-15.27.46:608][946]Cmd: sg.resolutionquality 100
+[2022.05.04-15.27.46:608][946]sg.ResolutionQuality = "100"
+[2022.05.04-15.27.46:608][946]Cmd: r.SetRes 1920x1080w
+[2022.05.04-15.27.46:608][946]r.SetRes = "1920x1080w"
+[2022.05.04-15.27.46:608][946]LogBlueprintUserMessages: [Global_BP_C_0] Skipping text calibration
+[2022.05.04-15.27.55:309][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.27.55:309][973]LogWorld: BeginTearingDown for /Game/PolygonTown/Maps/UEDPIE_0_Demonstration
+[2022.05.04-15.27.55:311][973]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.27.55:326][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.27.55:337][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.27.55:361][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.27.55:384][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.27.55:384][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.27.55:385][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.27.55:484][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.05.04-15.27.55:538][974]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.05.04-15.28.18:034][497]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/VN_Framework/Maps/TutorialMap_BuiltData.TutorialMap_BuiltData
+[2022.05.04-15.28.19:649][660]LogSlate: Window 'TutorialMap_BuiltData' being destroyed
+[2022.05.04-15.28.19:653][660]LogSlate: Window 'TutorialMap_BuiltData' being destroyed
+[2022.05.04-15.28.20:448][743]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.05.04-15.28.20:507][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VN_Framework/Maps/TutorialMap.TutorialMap
+[2022.05.04-15.28.20:507][743]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/VN_Framework/Maps/TutorialMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.28.20:507][743]LightingResults: New page: Lighting Build
+[2022.05.04-15.28.20:507][743]LoadErrors: New page: Loading map: TutorialMap.umap
+[2022.05.04-15.28.20:568][743]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.28.20:569][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.28.20:570][743]MapCheck: New page: Map Check
+[2022.05.04-15.28.20:570][743]LightingResults: New page: Lighting Build
+[2022.05.04-15.28.20:601][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.28.20:616][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.05.04-15.28.20:616][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'TutorialMap'.
+[2022.05.04-15.28.20:635][743]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/VN_Framework/Maps/2D_Background) is flushing async loading
+[2022.05.04-15.28.20:635][743]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.05.04-15.28.20:639][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.28.20:639][743]LogAIModule: Creating AISystem for world TutorialMap
+[2022.05.04-15.28.20:667][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.05.04-15.28.20:672][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.28.20:672][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.125ms to complete.
+[2022.05.04-15.28.20:672][743]LogFileHelpers: Loading map 'TutorialMap' took 0.166
+[2022.05.04-15.28.20:679][743]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/VN_Framework/Maps/2D_Background.2D_Background:PersistentLevel.LivingRoom_Sprite_2.RenderComponent)
+[2022.05.04-15.28.20:679][743]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: PaperSpriteComponent /Game/VN_Framework/Maps/2D_Background.2D_Background:PersistentLevel.Camera1_2.Sprite_ImageFill)
+[2022.05.04-15.28.28:646][683]Cmd: EDIT COPY
+[2022.05.04-15.28.31:228][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.05.04-15.28.31:244][981]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Map.Map
+[2022.05.04-15.28.31:244][981]Cmd: MAP LOAD FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.04-15.28.31:244][981]LightingResults: New page: Lighting Build
+[2022.05.04-15.28.31:244][981]LoadErrors: New page: Loading map: Map.umap
+[2022.05.04-15.28.31:245][981]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.28.31:245][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.28.31:245][981]LogWorld: UWorld::CleanupWorld for 2D_Background, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.28.31:245][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.28.31:245][981]MapCheck: New page: Map Check
+[2022.05.04-15.28.31:245][981]LightingResults: New page: Lighting Build
+[2022.05.04-15.28.31:264][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.28.31:269][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.05.04-15.28.31:269][981]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map'.
+[2022.05.04-15.28.31:271][981]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.04-15.28.31:271][981]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.28.31:293][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.05.04-15.28.31:295][981]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.04-15.28.31:295][981]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2022.05.04-15.28.31:295][981]LogFileHelpers: Loading map 'Map' took 0.052
+[2022.05.04-15.28.31:322][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.05.04-15.28.33:431][230]Cmd: EDIT PASTE
+[2022.05.04-15.28.33:433][230]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.04-15.28.37:308][678]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.04-15.28.41:981][234]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.04-15.28.48:405][992]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.04-15.28.49:423][113]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.04-15.28.54:399][705]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.05.04-15.28.56:484][945]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.28.56:489][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.28.56:489][945]PIE: New page: PIE session: Map (May 4, 2022, 7:28:56 PM)
+[2022.05.04-15.28.56:517][945]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.28.56:519][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001695s)
+[2022.05.04-15.28.56:520][945]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.28.56:520][945]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2022.05.04-15.28.56:520][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003022s)
+[2022.05.04-15.28.56:542][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.04-15.28.56:549][945]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.28.56:549][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.28.56:549][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.28.56:550][945]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.28.56:550][945]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.28.56:552][945]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.28.56:552][945]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.28.56:628][945]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.28.56:628][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.28.56:628][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.28.56:628][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.28.56:628][945]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.28.56:628][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.28.56:629][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.28.56:641][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.28.56:641][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.28.56:641][945]LogInit: FAudioDevice initialized.
+[2022.05.04-15.28.56:641][945]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map'.
+[2022.05.04-15.28.56:652][945]LogLoad: Game class is 'VN_GameMode_C'
+[2022.05.04-15.28.56:653][945]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.28.56
+[2022.05.04-15.28.56:653][945]LogWorld: Bringing up level for play took: 0.000689
+[2022.05.04-15.28.56:653][945]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.05.04-15.28.56:655][945]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.04-15.28.56:657][945]PIE: Server logged in
+[2022.05.04-15.28.56:658][945]PIE: Play in editor total start time 0.169 seconds.
+[2022.05.04-15.28.56:696][947]Cmd: sg.resolutionquality 100
+[2022.05.04-15.28.56:697][947]sg.ResolutionQuality = "100"
+[2022.05.04-15.28.56:697][947]Cmd: r.SetRes 1920x1080w
+[2022.05.04-15.28.56:697][947]r.SetRes = "1920x1080w"
+[2022.05.04-15.28.56:697][947]LogBlueprintUserMessages: [Global_BP_C_1] Skipping text calibration
+[2022.05.04-15.29.07:868][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.29.07:868][281]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.29.07:868][281]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.29.07:869][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.29.07:876][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.29.07:890][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.29.07:909][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.29.07:909][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.29.07:910][281]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.29.07:930][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.05.04-15.29.07:960][282]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.05.04-15.29.09:213][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Ground_5)
+[2022.05.04-15.29.12:172][773]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.29.12:176][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.29.12:176][773]PIE: New page: PIE session: Map (May 4, 2022, 7:29:12 PM)
+[2022.05.04-15.29.12:197][773]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.29.12:199][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001647s)
+[2022.05.04-15.29.12:200][773]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.29.12:200][773]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2022.05.04-15.29.12:200][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002975s)
+[2022.05.04-15.29.12:221][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.04-15.29.12:223][773]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.05.04-15.29.12:223][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.29.12:224][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.29.12:224][773]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.29.12:224][773]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.29.12:226][773]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.29.12:226][773]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.29.12:300][773]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.29.12:301][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.29.12:301][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.29.12:301][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.29.12:301][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.29.12:301][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.29.12:301][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.29.12:314][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.29.12:314][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.29.12:314][773]LogInit: FAudioDevice initialized.
+[2022.05.04-15.29.12:314][773]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map'.
+[2022.05.04-15.29.12:324][773]LogLoad: Game class is 'VN_GameMode_C'
+[2022.05.04-15.29.12:325][773]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.29.12
+[2022.05.04-15.29.12:325][773]LogWorld: Bringing up level for play took: 0.000638
+[2022.05.04-15.29.12:326][773]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.05.04-15.29.12:327][773]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.04-15.29.12:329][773]PIE: Server logged in
+[2022.05.04-15.29.12:329][773]PIE: Play in editor total start time 0.154 seconds.
+[2022.05.04-15.29.12:374][776]Cmd: sg.resolutionquality 100
+[2022.05.04-15.29.12:375][776]sg.ResolutionQuality = "100"
+[2022.05.04-15.29.12:375][776]Cmd: r.SetRes 1920x1080w
+[2022.05.04-15.29.12:375][776]r.SetRes = "1920x1080w"
+[2022.05.04-15.29.12:375][776]LogBlueprintUserMessages: [Global_BP_C_2] Skipping text calibration
+[2022.05.04-15.29.32:298][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.29.32:298][161]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.29.32:298][161]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.29.32:298][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.29.32:309][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.29.32:326][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.29.32:345][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.29.32:345][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.29.32:346][161]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.29.32:367][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.05.04-15.29.32:407][162]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.04-15.29.34:516][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Generic_Mountains_Grass_9)
+[2022.05.04-15.29.54:957][385]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.29.54:961][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.29.54:961][385]PIE: New page: PIE session: Map (May 4, 2022, 7:29:54 PM)
+[2022.05.04-15.29.54:987][385]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.29.54:988][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001573s)
+[2022.05.04-15.29.54:989][385]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.29.54:990][385]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.05.04-15.29.54:990][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002826s)
+[2022.05.04-15.29.55:011][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.04-15.29.55:018][385]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.29.55:018][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.29.55:018][385]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.29.55:018][385]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.29.55:021][385]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.29.55:021][385]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.29.55:093][385]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.29.55:093][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.29.55:093][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.29.55:093][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.29.55:094][385]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.29.55:094][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.29.55:094][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.29.55:106][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.29.55:106][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.29.55:106][385]LogInit: FAudioDevice initialized.
+[2022.05.04-15.29.55:106][385]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map'.
+[2022.05.04-15.29.55:113][385]LogLoad: Game class is 'VN_GameMode_C'
+[2022.05.04-15.29.55:114][385]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.29.55
+[2022.05.04-15.29.55:114][385]LogWorld: Bringing up level for play took: 0.000631
+[2022.05.04-15.29.55:114][385]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.05.04-15.29.55:115][385]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.04-15.29.55:116][385]PIE: Server logged in
+[2022.05.04-15.29.55:117][385]PIE: Play in editor total start time 0.158 seconds.
+[2022.05.04-15.29.55:162][388]Cmd: sg.resolutionquality 100
+[2022.05.04-15.29.55:162][388]sg.ResolutionQuality = "100"
+[2022.05.04-15.29.55:162][388]Cmd: r.SetRes 1920x1080w
+[2022.05.04-15.29.55:162][388]r.SetRes = "1920x1080w"
+[2022.05.04-15.29.55:162][388]LogBlueprintUserMessages: [Global_BP_C_3] Skipping text calibration
+[2022.05.04-15.30.01:958][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.30.01:958][154]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.30.01:958][154]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.30.01:958][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.30.01:964][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.30.01:979][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.30.01:998][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.30.01:998][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.30.01:999][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.30.02:020][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.05.04-15.30.02:047][155]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.05.04-15.30.03:322][307]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.30.03:326][307]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.30.03:326][307]PIE: New page: PIE session: Map (May 4, 2022, 7:30:03 PM)
+[2022.05.04-15.30.03:326][307]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.30.03:328][307]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002010s)
+[2022.05.04-15.30.03:329][307]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.30.03:329][307]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2022.05.04-15.30.03:329][307]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003525s)
+[2022.05.04-15.30.03:350][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.05.04-15.30.03:352][307]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.30.03:352][307]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.30.03:352][307]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.30.03:352][307]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.30.03:354][307]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.30.03:355][307]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.30.03:427][307]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.30.03:427][307]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.30.03:427][307]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.30.03:427][307]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.30.03:428][307]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.30.03:428][307]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.30.03:428][307]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.30.03:440][307]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.30.03:440][307]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.30.03:440][307]LogInit: FAudioDevice initialized.
+[2022.05.04-15.30.03:440][307]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map'.
+[2022.05.04-15.30.03:447][307]LogLoad: Game class is 'VN_GameMode_C'
+[2022.05.04-15.30.03:448][307]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.30.03
+[2022.05.04-15.30.03:448][307]LogWorld: Bringing up level for play took: 0.000613
+[2022.05.04-15.30.03:448][307]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.05.04-15.30.03:449][307]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.05.04-15.30.03:451][307]PIE: Server logged in
+[2022.05.04-15.30.03:451][307]PIE: Play in editor total start time 0.126 seconds.
+[2022.05.04-15.30.03:529][313]Cmd: sg.resolutionquality 100
+[2022.05.04-15.30.03:530][313]sg.ResolutionQuality = "100"
+[2022.05.04-15.30.03:530][313]Cmd: r.SetRes 1920x1080w
+[2022.05.04-15.30.03:530][313]r.SetRes = "1920x1080w"
+[2022.05.04-15.30.03:530][313]LogBlueprintUserMessages: [Global_BP_C_4] Skipping text calibration
+[2022.05.04-15.30.14:092][523]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VN_Framework/Blueprints/VN_FirstPersonCharacter.VN_FirstPersonCharacter
+[2022.05.04-15.30.18:179][736]LogSlate: Window 'VN_FirstPersonCharacter' being destroyed
+[2022.05.04-15.30.28:339][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.30.28:339][488]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.30.28:339][488]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.30.28:340][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.30.28:368][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.30.28:382][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.30.28:405][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.30.28:405][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.30.28:405][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.30.28:426][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.05.04-15.30.28:580][489]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.05.04-15.31.17:129][349]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.31.17:129][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.31.35:326][461]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.05.04-15.31.35:856][461]LogTexture: Display: Building textures: normal_blank (BC5, 512X512)
+[2022.05.04-15.31.35:856][461]LogTexture: Display: Building textures: MC_Head_frown (AutoDXT, 2048X2048)
+[2022.05.04-15.31.35:856][461]LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling. 
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: madeinstl (BGRA8, 770X770)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: name_box (BGRA8, 1920X454)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: spr_text_bullets_checked (AutoDXT, 100X100)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: text_box_glow (BGRA8, 1920X454)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: throb (AutoDXT, 128X128)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: Woodsy (AutoDXT, 1920X1080)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: choice_button (BGRA8, 431X80)
+[2022.05.04-15.31.36:408][461]LogTexture: Display: Building textures: journal_menu_bg (AutoDXT, 1024X1024)
+[2022.05.04-15.31.36:442][461]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.05.04-15.31.36:510][461]LogObjectTools: Deleting 4 worlds: /Game/VN_Framework/Maps/2D_Background.2D_Background, /Game/VN_Framework/Maps/Main_Persistent.Main_Persistent, /Game/VN_Framework/Maps/Map2.Map2, /Game/VN_Framework/Maps/TutorialMap.TutorialMap
+[2022.05.04-15.31.36:511][461]LogObjectTools: Currently 5 active worlds: /Game/Map.Map, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2022.05.04-15.31.36:548][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.05.04-15.31.55:224][461]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.04-15.31.55:266][461]LogWorld: UWorld::CleanupWorld for 2D_Background, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.31.55:266][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.31.55:267][461]LogWorld: UWorld::CleanupWorld for Main_Persistent, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.31.55:267][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.31.55:267][461]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.31.55:267][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.31.55:267][461]LogWorld: UWorld::CleanupWorld for TutorialMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.31.55:268][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.31.55:378][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.05.04-15.31.55:406][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.05.04-15.31.55:421][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:437][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.55:453][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.55:468][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:484][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:499][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:514][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:530][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.55:531][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.31.55:549][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:564][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.55:580][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.55:595][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.55:611][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.55:627][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.55:644][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.55:660][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.55:676][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.55:691][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:708][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.55:725][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.55:741][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.55:742][461]LogSlate: Took 0.000512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.04-15.31.55:763][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.55:779][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.04-15.31.55:794][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.55:810][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.55:825][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.55:840][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.55:857][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.55:872][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:887][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.55:904][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.55:920][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.55:936][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.55:954][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.55:976][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.55:994][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.04-15.31.56:010][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.56:027][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-15.31.56:044][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:061][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.56:076][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.56:093][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:109][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-15.31.56:127][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.05.04-15.31.56:143][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:158][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:177][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:194][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.56:210][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.56:226][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.56:243][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-15.31.56:259][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.56:276][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.04-15.31.56:292][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:307][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:323][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:339][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.56:354][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:371][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.56:390][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:406][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:421][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.56:436][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:452][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.56:468][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:484][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:500][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:515][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.56:531][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:547][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:563][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.56:579][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-15.31.56:598][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:613][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:628][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.56:644][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:659][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:675][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.56:691][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.04-15.31.56:708][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.56:723][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:740][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.56:756][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:771][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:787][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.56:807][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:824][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:841][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.56:857][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:874][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.56:889][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.56:905][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-15.31.56:921][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:936][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:952][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.56:968][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.56:983][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.56:998][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.57:017][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:033][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.57:048][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:062][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:078][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:093][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.57:109][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:124][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.57:139][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:154][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.57:170][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:186][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.57:201][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.57:223][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.57:240][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.05.04-15.31.57:255][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.57:273][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.57:290][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.04-15.31.57:307][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.04-15.31.57:325][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.57:340][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:356][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:372][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:387][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:402][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:420][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:436][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:451][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:467][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:483][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.57:498][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:514][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.57:529][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.57:546][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.57:562][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.04-15.31.57:579][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:594][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:610][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:627][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:643][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:658][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:674][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.04-15.31.57:691][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.57:706][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:722][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:739][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.57:756][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.57:772][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.57:789][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:804][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:820][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.57:839][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:856][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:873][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.04-15.31.57:893][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.05.04-15.31.57:909][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.57:927][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.57:942][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:958][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.57:973][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.57:989][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:004][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.58:019][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.58:035][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.58:055][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.04-15.31.58:071][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.58:088][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.05.04-15.31.58:104][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:119][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.31.58:135][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:151][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-15.31.58:166][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:182][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:198][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:215][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.04-15.31.58:231][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:247][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.04-15.31.58:267][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:284][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:302][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.04-15.31.58:321][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.58:338][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.04-15.31.58:354][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:370][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:386][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.58:401][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:417][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.58:433][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:448][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:465][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.58:481][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:496][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:512][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.58:528][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.04-15.31.58:544][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.58:560][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.58:576][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.05.04-15.31.58:592][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.04-15.31.58:608][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:623][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:639][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.58:655][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.58:676][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.58:692][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:708][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.58:724][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:739][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:755][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.05.04-15.31.58:771][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:787][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.58:804][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:821][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.58:837][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:853][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.58:868][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:888][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.58:905][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.58:920][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.58:936][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.58:952][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.04-15.31.58:969][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-15.31.58:985][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:001][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.59:017][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.59:032][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-15.31.59:048][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:063][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.59:080][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:100][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.59:116][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.59:133][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:149][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.59:165][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:181][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.04-15.31.59:198][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:214][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:231][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:246][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.59:263][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.59:280][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.59:301][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.31.59:319][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-15.31.59:335][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.59:352][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.04-15.31.59:368][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:384][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:399][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:416][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:432][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:447][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:464][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.59:480][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.59:497][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.59:513][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:530][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.59:547][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:563][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.59:580][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:597][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.05.04-15.31.59:613][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.59:629][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:646][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:663][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.04-15.31.59:679][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.05.04-15.31.59:698][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.04-15.31.59:717][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.59:733][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.59:748][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:764][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:780][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.31.59:795][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.31.59:810][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:826][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.31.59:842][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.04-15.31.59:860][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.05.04-15.31.59:876][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:892][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.31.59:908][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.31.59:930][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.04-15.31.59:947][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.04-15.31.59:963][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.31.59:979][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.31.59:996][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:011][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.32.00:032][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:049][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:065][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:081][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.32.00:098][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:114][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.32.00:131][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:147][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.32.00:164][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:179][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.32.00:196][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.05.04-15.32.00:212][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.32.00:228][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.32.00:244][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:260][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.05.04-15.32.00:276][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:292][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:309][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:325][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.04-15.32.00:345][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.05.04-15.32.00:361][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.32.00:376][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:391][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:407][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:423][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:439][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:456][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:472][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:489][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:505][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:520][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:536][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:554][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.05.04-15.32.00:569][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:585][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-15.32.00:602][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:618][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:634][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:649][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:666][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.05.04-15.32.00:682][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:698][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.32.00:714][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.32.00:731][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:747][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.05.04-15.32.00:765][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.05.04-15.32.00:781][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:797][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.05.04-15.32.00:813][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:830][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:846][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.05.04-15.32.00:862][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.04-15.32.00:878][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.05.04-15.32.00:895][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.00:913][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.04-15.32.00:930][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.04-15.32.00:947][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.05.04-15.32.00:974][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.05.04-15.32.00:991][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.05.04-15.32.01:193][461]LogSlate: Took 0.000622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.04-15.32.01:194][461]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.04-15.32.01:201][461]LogSlate: Took 0.000620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.04-15.32.01:208][461]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.04-15.32.04:980][884]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.32.04:984][884]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.32.04:984][884]PIE: New page: PIE session: Map (May 4, 2022, 7:32:04 PM)
+[2022.05.04-15.32.04:984][884]LogLinker: Warning: Failed to load '/Game/VN_Framework/Blueprints/Global_BP': Can't find file.
+[2022.05.04-15.32.04:984][884]LogLinker: Warning: Failed to load '/Game/VN_Framework/Blueprints/Global_BP': Can't find file.
+[2022.05.04-15.32.04:984][884]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VN_Framework/Blueprints/Global_BP.Global_BP_C'
+[2022.05.04-15.32.04:985][884]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.32.04:986][884]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001879s)
+[2022.05.04-15.32.04:988][884]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.32.04:988][884]LogPlayLevel: PIE: World Init took: (0.001522s)
+[2022.05.04-15.32.04:988][884]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.003527s)
+[2022.05.04-15.32.05:006][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.05.04-15.32.05:008][884]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.32.05:008][884]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.32.05:008][884]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.32.05:009][884]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.32.05:009][884]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.32.05:011][884]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.32.05:011][884]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.32.05:085][884]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.32.05:085][884]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.32.05:085][884]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.32.05:085][884]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.32.05:085][884]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.32.05:085][884]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.32.05:085][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.32.05:097][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.32.05:097][884]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.32.05:097][884]LogInit: FAudioDevice initialized.
+[2022.05.04-15.32.05:097][884]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map'.
+[2022.05.04-15.32.05:109][884]LogLinker: Warning: Failed to load '/Game/VN_Framework/Blueprints/VN_GameMode': Can't find file.
+[2022.05.04-15.32.05:109][884]LogLinker: Warning: Failed to load '/Game/VN_Framework/Blueprints/VN_GameMode': Can't find file.
+[2022.05.04-15.32.05:109][884]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VN_Framework/Blueprints/VN_GameMode.VN_GameMode_C'
+[2022.05.04-15.32.05:109][884]LogLoad: Game class is 'GameModeBase'
+[2022.05.04-15.32.05:110][884]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.32.05
+[2022.05.04-15.32.05:111][884]LogWorld: Bringing up level for play took: 0.000641
+[2022.05.04-15.32.05:111][884]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.05.04-15.32.05:113][884]PIE: Server logged in
+[2022.05.04-15.32.05:114][884]PIE: Play in editor total start time 0.131 seconds.
+[2022.05.04-15.32.16:815][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.32.16:816][279]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.32.16:816][279]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.32.16:816][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.32.16:825][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.32.16:838][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.32.16:854][279]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.04-15.32.16:854][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.32.16:854][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.32.16:872][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.32.16:875][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.05.04-15.32.16:912][280]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.05.04-15.32.19:750][611]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.32.19:754][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.32.19:754][611]PIE: New page: PIE session: Map (May 4, 2022, 7:32:19 PM)
+[2022.05.04-15.32.19:794][611]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.32.19:796][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001482s)
+[2022.05.04-15.32.19:797][611]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.32.19:797][611]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2022.05.04-15.32.19:797][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002639s)
+[2022.05.04-15.32.19:814][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.05.04-15.32.19:816][611]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.32.19:816][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.32.19:816][611]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.32.19:816][611]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.32.19:818][611]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.32.19:818][611]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.32.19:892][611]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.32.19:892][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.32.19:892][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.32.19:892][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.32.19:892][611]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.32.19:892][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.32.19:892][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.32.19:905][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.32.19:905][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.32.19:905][611]LogInit: FAudioDevice initialized.
+[2022.05.04-15.32.19:905][611]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map'.
+[2022.05.04-15.32.19:916][611]LogLoad: Game class is 'GameModeBase'
+[2022.05.04-15.32.19:917][611]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.32.19
+[2022.05.04-15.32.19:917][611]LogWorld: Bringing up level for play took: 0.000622
+[2022.05.04-15.32.19:917][611]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.05.04-15.32.19:919][611]PIE: Server logged in
+[2022.05.04-15.32.19:920][611]PIE: Play in editor total start time 0.166 seconds.
+[2022.05.04-15.32.24:999][203]LogSlate: Took 0.002158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.04-15.32.45:875][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.32.45:875][638]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.32.45:875][638]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.32.45:876][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.32.45:887][638]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.32.45:900][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.32.45:916][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.32.45:916][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.32.45:917][638]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.32.45:938][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.05.04-15.32.45:971][639]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.05.04-15.33.10:091][468]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.04-15.33.10:095][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.04-15.33.10:095][468]PIE: New page: PIE session: Map (May 4, 2022, 7:33:10 PM)
+[2022.05.04-15.33.10:124][468]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Map
+[2022.05.04-15.33.10:125][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001497s)
+[2022.05.04-15.33.10:126][468]LogAIModule: Creating AISystem for world Map
+[2022.05.04-15.33.10:126][468]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2022.05.04-15.33.10:126][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map.Map to /Game/UEDPIE_0_Map.Map (0.002555s)
+[2022.05.04-15.33.10:143][468]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.05.04-15.33.10:149][468]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.04-15.33.10:149][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.04-15.33.10:149][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.04-15.33.10:150][468]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.04-15.33.10:150][468]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.04-15.33.10:152][468]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.04-15.33.10:152][468]LogAudioMixer: Display: 1: FrontRight
+[2022.05.04-15.33.10:225][468]LogAudioMixer: Display: Using Audio Device DELL U2410 (NVIDIA High Definition Audio)
+[2022.05.04-15.33.10:225][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.04-15.33.10:225][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.04-15.33.10:225][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.04-15.33.10:225][468]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.04-15.33.10:225][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.04-15.33.10:225][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.04-15.33.10:237][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.04-15.33.10:237][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.04-15.33.10:237][468]LogInit: FAudioDevice initialized.
+[2022.05.04-15.33.10:237][468]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map'.
+[2022.05.04-15.33.10:244][468]LogLoad: Game class is 'GameModeBase'
+[2022.05.04-15.33.10:245][468]LogWorld: Bringing World /Game/UEDPIE_0_Map.Map up for play (max tick rate 0) at 2022.05.04-17.33.10
+[2022.05.04-15.33.10:245][468]LogWorld: Bringing up level for play took: 0.000610
+[2022.05.04-15.33.10:245][468]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.04-15.33.10:247][468]PIE: Server logged in
+[2022.05.04-15.33.10:248][468]PIE: Play in editor total start time 0.153 seconds.
+[2022.05.04-15.34.08:354][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.34.08:354][ 63]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Map
+[2022.05.04-15.34.08:354][ 63]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.34.08:355][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.34.08:361][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.04-15.34.08:373][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.04-15.34.08:388][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.04-15.34.08:389][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.34.08:389][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.34.08:411][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.05.04-15.34.08:442][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.04-15.34.12:005][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.04-15.34.12:021][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.05.04-15.34.12:029][487]LogSavePackage: Moving '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Saved/Map27B1637B4ACB897E11FB7C84C3F962A9.tmp' to '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Content/Map.umap'
+[2022.05.04-15.34.12:039][487]AssetCheck: New page: Asset Save: Map
+[2022.05.04-15.34.12:039][487]LogContentValidation: Display: Validating World /Game/Map.Map
+[2022.05.04-15.34.13:188][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.05.04-15.34.13:197][623]LogSlate: Window 'CaminoLamento - Unreal Editor' being destroyed
+[2022.05.04-15.34.13:283][624]Cmd: QUIT_EDITOR
+[2022.05.04-15.34.13:283][624]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.05.04-15.34.13:285][624]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.05.04-15.34.13:633][624]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.05.04-15.34.13:633][624]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.05.04-15.34.13:633][624]LogAudio: Display: Audio Device unregistered from world 'Map'.
+[2022.05.04-15.34.13:633][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.34.13:634][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.04-15.34.13:671][624]LogAudio: Display: Audio Device Manager Shutdown
+[2022.05.04-15.34.13:672][624]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.04-15.34.13:674][624]LogExit: Preparing to exit.
+[2022.05.04-15.34.13:926][624]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.34.13:928][624]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.34.13:931][624]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.34.13:933][624]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515F900] Windows
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515F700] Default__DeviceProfile
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315118900] WindowsNoEditor
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515CA00] WindowsServer
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511B300] WindowsClient
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515F400] IOS
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315118D00] iPadAir
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515D000] iPadAir2
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315090F00] IPadPro
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315091000] iPadAir3
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515EE00] iPadAir4
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315093F00] iPadMini2
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515D300] iPadMini3
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315092000] iPadMini4
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331515E900] iPadMini5
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511B500] iPhone6
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511B400] iPodTouch6
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315090E00] iPhone7
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315091D00] iPodTouch7
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511A600] iPhone5S
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315090600] iPhone6Plus
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511A900] iPhone6S
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315093600] iPhone6SPlus
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315118500] iPhone7Plus
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315091400] iPhoneSE
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315119900] iPhone8
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315092500] iPhone8Plus
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315119A00] iPhoneX
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315090400] iPhoneXS
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511AB00] iPhoneXSMax
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [0000013315093900] iPhoneXR
+[2022.05.04-15.34.13:940][624]LogDeviceProfile: Device profile begin destroy: [000001331511A500] iPhone11
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092C00] iPhone11Pro
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511AD00] iPhone11ProMax
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092700] iPhoneSE2
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315119700] iPhone12Mini
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093200] iPhone12
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315118800] iPhone12Pro
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315090A00] iPhone12ProMax
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315118400] iPadPro105
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315091300] iPadPro129
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511A300] iPadPro97
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315091A00] iPadPro2_129
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315119B00] iPad5
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315091900] iPad6
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315118600] iPad7
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315090500] iPad8
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511AA00] iPadPro11
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093700] iPadPro2_11
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511BD00] iPadPro3_129
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315090300] iPadPro4_129
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315119600] AppleTV
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092600] AppleTV4K
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315119200] TVOS
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093B00] Mac
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511AF00] MacClient
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315090700] MacNoEditor
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511B900] MacServer
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092E00] Linux
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315118F00] LinuxAArch64
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093400] LinuxNoEditor
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D1500] LinuxAArch64NoEditor
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515F600] LinuxClient
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D1900] LinuxAArch64Client
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515DA00] LinuxServer
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0500] LinuxAArch64Server
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515ED00] Android
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0200] Android_Low
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515E400] Android_Mid
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D1300] Android_High
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515C700] Android_Default
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0D00] Android_Adreno4xx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515D600] Android_Adreno5xx_Low
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0100] Android_Adreno5xx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515C500] Android_Adreno6xx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0800] Android_Adreno6xx_Vulkan
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515C200] Android_Mali_T6xx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D1000] Android_Mali_T7xx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331515D400] Android_Mali_T8xx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315090100] Android_Mali_G71
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315118C00] Android_Mali_G72
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315091F00] Android_Mali_G72_Vulkan
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315119400] Android_Mali_G76
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092900] Android_Mali_G76_Vulkan
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511B000] Android_Mali_G77
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092400] Android_Mali_G77_Vulkan
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511A200] Android_Vulkan_SM5
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093D00] Android_PowerVR_G6xxx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511BB00] Android_PowerVR_GT7xxx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093C00] Android_PowerVR_GE8xxx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [000001331511B100] Android_PowerVR_GM9xxx
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315091100] Android_PowerVR_GM9xxx_Vulkan
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315118100] Android_TegraK1
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315093500] Android_Unknown_Vulkan
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0600] Lumin
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [0000013315092100] Lumin_Desktop
+[2022.05.04-15.34.13:941][624]LogDeviceProfile: Device profile begin destroy: [00000133151D0900] HoloLens
+[2022.05.04-15.34.13:990][624]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.05.04-15.34.13:990][624]LogExit: Editor shut down
+[2022.05.04-15.34.13:991][624]LogExit: Transaction tracking system shut down
+[2022.05.04-15.34.13:992][624]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.05.04-15.34.14:344][624]LogExit: Object subsystem successfully closed.
+[2022.05.04-15.34.14:366][624]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.05.04-15.34.14:379][624]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (822)
+[2022.05.04-15.34.14:379][624]LogModuleManager: Shutting down and abandoning module Voice (820)
+[2022.05.04-15.34.14:379][624]LogModuleManager: Shutting down and abandoning module BlueprintGraph (818)
+[2022.05.04-15.34.14:379][624]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (816)
+[2022.05.04-15.34.14:379][624]LogModuleManager: Shutting down and abandoning module AddContentDialog (814)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module WidgetCarousel (813)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module EditorWidgets (810)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SceneOutliner (808)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module StatsViewer (806)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (804)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (802)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module AutomationWorker (800)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SteamVREditor (798)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module OculusMR (796)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module PlanarCut (794)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module GooglePADEditor (792)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (790)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (788)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (782)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (780)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (778)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (776)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (774)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module WebMMedia (772)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (770)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (768)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SequenceRecorder (767)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (764)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (762)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (760)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (758)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (756)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (754)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (752)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (750)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (748)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (746)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module CharacterAI (744)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module TextureAlignMode (742)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module BspMode (740)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module GeometryMode (738)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (736)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SmartSnapping (734)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SessionServices (732)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MeshPaint (730)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (728)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module FoliageEdit (726)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module LandscapeEditor (724)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module MeshPaintMode (722)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (720)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ActorPickerMode (718)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module PlacementMode (716)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ViewportSnapping (714)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ViewportInteraction (712)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module ClothPainter (710)
+[2022.05.04-15.34.14:380][624]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (709)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module LogVisualizer (706)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module IntroTutorials (704)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (703)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (700)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (698)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (696)
+[2022.05.04-15.34.14:381][624]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (695)
