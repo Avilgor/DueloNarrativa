@@ -1313,3 +1313,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.11-14.22.20:003][805]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.05.11-14.22.20:020][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
 [2022.05.11-14.22.20:032][806]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.05.11-14.24.39:254][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.05.11-14.24.39:254][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main_Menu/MainMenu' took 0.024
+[2022.05.11-14.24.39:255][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Main_Menu/Back] ([1] browsable assets)...
+[2022.05.11-14.24.39:259][568]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Main_Menu/Back.Back]
+[2022.05.11-14.24.39:259][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Main_Menu/Back]
+[2022.05.11-14.24.39:267][568]LogSavePackage: Moving '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Saved/Back_Auto1614CCE7548664A5CD1232B843B10EDE3.tmp' to '../../../../../../Users/adriaab/Documents/GitHub/DueloNarrativa/CaminoDeLamento/CaminoLamento/Saved/Autosaves/Game/Main_Menu/Back_Auto1.uasset'
+[2022.05.11-14.24.39:267][568]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.05.11-14.26.48:024][434]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
