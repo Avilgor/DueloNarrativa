@@ -54,12 +54,12 @@ CaminoDeLamento/CaminoLamento/Plugins/*/Binaries/*
 CaminoDeLamento/CaminoLamento/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!CaminoDeLamento/CaminoLamento/Build/*/
+CaminoDeLamento/CaminoLamento/Build/*/
 CaminoDeLamento/CaminoLamento/Build/*/**
-!CaminoDeLamento/CaminoLamento/Build/*/PakBlacklist*.txt
+CaminoDeLamento/CaminoLamento/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!CaminoDeLamento/CaminoLamento/Build/**/*.ico
+CaminoDeLamento/CaminoLamento/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
