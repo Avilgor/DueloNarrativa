@@ -42,23 +42,23 @@
 *.VC.opendb
 
 # Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
+CaminoDeLamento/CaminoLamento/SourceArt/**/*.png
+CaminoDeLamento/CaminoLamento/SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
-Plugins/*/Binaries/*
+CaminoDeLamento/CaminoLamento/Binaries/*
+CaminoDeLamento/CaminoLamento/Plugins/*/Binaries/*
 
 # Builds
-Build/*
+CaminoDeLamento/CaminoLamento/Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!CaminoDeLamento/CaminoLamento/Build/*/
+CaminoDeLamento/CaminoLamento/Build/*/**
+!CaminoDeLamento/CaminoLamento/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+!CaminoDeLamento/CaminoLamento/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
@@ -68,7 +68,7 @@ CaminoDeLamento/CaminoLamento/Saved/*
 
 # Compiled source files for the engine to use
 CaminoDeLamento/CaminoLamento/Intermediate/*
-Plugins/*/Intermediate/*
+CaminoDeLamento/CaminoLamento/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 CaminoDeLamento/CaminoLamento/DerivedDataCache/*
