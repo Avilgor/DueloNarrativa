@@ -24,6 +24,7 @@
 *.la
 *.a
 *.lib
+*.log
 
 # Executables
 *.exe
@@ -75,7 +76,7 @@ CaminoDeLamento/CaminoLamento/DerivedDataCache/*
 
 
 CaminoDeLamento/CaminoLamento/Saved/*
-*.log
+
 CaminoDeLamento/CaminoLamento/Saved/Logs/CaminoLamento.log
 CaminoDeLamento/CaminoLamento/Intermediate/CachedAssetRegistry.bin
 CaminoDeLamento/CaminoLamento/Saved/Config/Windows/EditorPerProjectUserSettings.ini
